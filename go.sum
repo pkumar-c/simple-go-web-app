@@ -1,0 +1,4 @@
+github.com/codegangsta/inject v0.0.0-20140425184007-37d7f8432a3e h1:ASNbuqbRsgQCvemp0S2XxhASDu/4mlOH4z3XOi0Iisk=
+github.com/codegangsta/inject v0.0.0-20140425184007-37d7f8432a3e/go.mod h1:4Zcjuz89kmFXt9morQgcfYZAYZ5n8WHjt81YYWIwtTM=
+github.com/go-martini/martini v0.0.0-20140519164645-49411a5b6468 h1:Se/FfS0xjB5rsDhsKfZf0R75vf7hRUHlJwAh0h63Kvw=
+github.com/go-martini/martini v0.0.0-20140519164645-49411a5b6468/go.mod h1:/P9AEU963A2AYjv4d1V5eVL1CQbEJq6aCNHDDjibzu8=
